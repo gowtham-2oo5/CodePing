@@ -35,10 +35,10 @@ CodePing consists of the following components:
 
 
 - [Web UI (NextJS)](https://github.com/socc-klef/cp-tracker)
-- [Android App (Jetpack Compose)](https://github.com/gowtham-2oo5/CodePing-Android) - WIP
+- [Android App (Jetpack Compose)](https://github.com/gowtham-2oo5/CodePing-Android)
 - [Backend APIs (Spring Boot)](https://github.com/gowtham-2oo5/CodePing-Server)
 - [Web Scraper Service (Node.js)](https://github.com/gowtham-2oo5/codechef-scraper)
-- [Public Profile Dashboard (React)](https://github.com/gowtham-2oo5/CodePing) - WIP
+
 
 ---
 
